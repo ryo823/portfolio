@@ -1,166 +1,167 @@
-# 👋 Portfolio - D-FIT24 Projects
+# 👋 ポートフォリオ - D-FIT24 プロジェクト
 
-Welcome to my portfolio! This repository showcases my work on modern fitness and health technology projects.
-
----
-
-## 📋 Table of Contents
-
-- [Projects Overview](#projects-overview)
-- [Project Details](#project-details)
-- [Technology Stack](#technology-stack)
-- [About D-FIT24](#about-d-fit24)
-- [Contact](#contact)
+私のポートフォリオへようこそ！このリポジトリは、モダンなフィットネスと健康テクノロジープロジェクトでの仕事を紹介しています。
 
 ---
 
-## 🎯 Projects Overview
+## 📋 目次
 
-I have developed a comprehensive fitness platform with both frontend and backend components. The platform combines a modern, responsive user interface with robust cloud-based infrastructure to deliver a seamless fitness experience.
+- [プロジェクト概要](#プロジェクト概要)
+- [プロジェクト詳細](#プロジェクト詳細)
+- [使用技術](#使用技術)
+- [D-FIT24について](#d-fit24について)
+- [お問い合わせ](#お問い合わせ)
 
 ---
 
-## 📂 Project Details
+## 🎯 プロジェクト概要
 
-### 📱 Project 1: d_fit24_react
+フロントエンドとバックエンドの両方を含む包括的なフィットネスプラットフォームを開発しました。モダンでレスポンシブなユーザーインターフェースと堅牢なクラウドベースのインフラストラクチャを組み合わせることで、シームレスなフィットネス体験を実現しています。
 
-**Repository:** [ryo823/d_fit24_react](https://github.com/ryo823/d_fit24_react)
+---
 
-A modern, responsive React-based frontend application for the D-FIT24 fitness platform.
+## 📂 プロジェクト詳細
 
-#### Key Information
-- **Language:** TypeScript
-- **Primary Framework:** React
-- **Created:** November 2023
-- **Status:** Actively Maintained
-- **Architecture:** Component-based, responsive design
+### 📱 プロジェクト1: d_fit24_react
 
-#### Features
-- 🎨 User-friendly interface for fitness tracking
-- 📊 Real-time data visualization and analytics
-- 📱 Responsive design optimized for mobile and desktop
-- ⚡ High-performance React components
-- 🔒 Type-safe development with TypeScript
+**リポジトリ:** [ryo823/d_fit24_react](https://github.com/ryo823/d_fit24_react)
 
-#### Technologies Used
+D-FIT24フィットネスプラットフォーム用のモダンでレスポンシブなReactベースのフロントエンドアプリケーション。
+
+#### 基本情報
+- **言語:** TypeScript
+- **主要フレームワーク:** React
+- **作成時期:** 2023年11月
+- **ステータス:** 積極的に保守中
+- **アーキテクチャ:** コンポーネントベース、レスポンシブデザイン
+
+#### 主な機能
+- 🎨 フィットネストラッキング用ユーザーフレンドリーインターフェース
+- 📊 リアルタイムデータ可視化と分析
+- 📱 モバイルとデスクトップ向けレスポンシブデザイン
+- ⚡ 高性能Reactコンポーネント
+- 🔒 TypeScriptによる型安全な開発
+
+#### 使用技術
 ```
-Frontend:
-  - React (UI framework)
-  - TypeScript (type safety)
-  - Modern CSS/Styling
-  - Build optimization tools
-```
-
----
-
-### ☁️ Project 2: d_fit24_cloud
-
-**Repository:** [ryo823/d_fit24_cloud](https://github.com/ryo823/d_fit24_cloud)
-
-The backend infrastructure and cloud services powering the D-FIT24 fitness platform.
-
-#### Key Information
-- **Language:** Python
-- **Architecture:** Cloud-based microservices
-- **Created:** December 2024
-- **Status:** Under Active Development
-- **Focus:** API development and data management
-
-#### Features
-- 🔌 RESTful API for fitness data management
-- ☁️ Cloud-based infrastructure and scaling
-- 💾 Robust data processing and storage
-- 🔐 Secure API endpoints
-- 📈 Scalable architecture design
-
-#### Technologies Used
-```
-Backend:
-  - Python (primary language)
-  - Cloud infrastructure
-  - API development frameworks
-  - Database management
-  - Data processing pipelines
+フロントエンド:
+  - React (UIフレームワーク)
+  - TypeScript (型安全性)
+  - モダンCSS/スタイリング
+  - ビルド最適化ツール
 ```
 
 ---
 
-## 🛠️ Technology Stack
+### ☁️ プロジェクト2: d_fit24_cloud
 
-### Frontend Stack
-| Technology | Purpose |
-|-----------|---------|
-| **TypeScript** | Type-safe JavaScript development |
-| **React** | UI component framework |
-| **Responsive Design** | Mobile-first approach |
-| **Modern JavaScript** | ES6+ features |
+**リポジトリ:** [ryo823/d_fit24_cloud](https://github.com/ryo823/d_fit24_cloud)
 
-### Backend Stack
-| Technology | Purpose |
-|-----------|---------|
-| **Python** | Core backend language |
-| **Cloud Services** | Infrastructure and scaling |
-| **RESTful APIs** | Client-server communication |
-| **Data Processing** | Analytics and reporting |
+D-FIT24フィットネスプラットフォームをサポートするバックエンドインフラストラクチャとクラウドサービス。
 
----
+#### 基本情報
+- **言語:** Python
+- **アーキテクチャ:** クラウドベースマイクロサービス
+- **作成時期:** 2024年12月
+- **ステータス:** 開発中
+- **重点:** API開発とデータ管理
 
-## 💡 About D-FIT24
+#### 主な機能
+- 🔌 フィットネスデータ管理用RESTful API
+- ☁️ クラウドベースのインフラストラクチャとスケーリング
+- 💾 堅牢なデータ処理とストレージ
+- 🔐 セキュアなAPIエンドポイント
+- 📈 スケーラブルなアーキテクチャ設計
 
-**D-FIT24** is a comprehensive fitness and health management platform designed to empower users to track, manage, and achieve their fitness goals. The platform leverages modern web technologies to provide:
-
-- **Real-time fitness tracking** with intuitive dashboards
-- **Data-driven insights** for personalized fitness recommendations
-- **Scalable infrastructure** to support growing user base
-- **Seamless user experience** across devices
-
-The platform demonstrates full-stack development capabilities, combining:
-- Frontend expertise in React and TypeScript
-- Backend infrastructure with Python and cloud services
-- Modern software architecture principles
-- Responsive and user-centric design
+#### 使用技術
+```
+バックエンド:
+  - Python (主言語)
+  - クラウドインフラストラクチャ
+  - API開発フレームワーク
+  - データベース管理
+  - データ処理パイプライン
+```
 
 ---
 
-## 📊 Project Statistics
+## 🛠️ 使用技術
 
-| Project | Language | Repository | Created |
-|---------|----------|-----------|---------|
-| **d_fit24_react** | TypeScript | [View](https://github.com/ryo823/d_fit24_react) | Nov 2023 |
-| **d_fit24_cloud** | Python | [View](https://github.com/ryo823/d_fit24_cloud) | Dec 2024 |
+### フロントエンド技術スタック
+| 技術 | 用途 |
+|------|------|
+| **TypeScript** | 型安全なJavaScript開発 |
+| **React** | UIコンポーネントフレームワーク |
+| **レスポンシブデザイン** | モバイルファーストアプローチ |
+| **モダンJavaScript** | ES6+機能 |
+
+### バックエンド技術スタック
+| 技術 | 用途 |
+|------|------|
+| **Python** | コアバックエンド言語 |
+| **クラウドサービス** | インフラストラクチャとスケーリング |
+| **RESTful API** | クライアント・サーバー通信 |
+| **データ処理** | 分析とレポーティング |
 
 ---
 
-## 🚀 Highlights
+## 💡 D-FIT24について
 
-- ✅ Full-stack development experience
-- ✅ Cloud-based architecture design
-- ✅ Modern frontend development practices
-- ✅ Type-safe programming with TypeScript
-- ✅ Scalable backend infrastructure
-- ✅ User-focused design philosophy
+**D-FIT24** は、ユーザーがフィットネス目標を追跡、管理、達成できるように設計された包括的なフィットネスと健康管理プラットフォームです。モダンなウェブテクノロジーを活用して、以下を提供します：
+
+- **リアルタイムフィットネストラッキング** 直感的なダッシュボード付き
+- **データドリブンインサイト** パーソナライズされたフィットネス推奨
+- **スケーラブルなインフラストラクチャ** ユーザーベースの増加に対応
+- **シームレスなユーザー体験** 複数デバイス間での統一
+
+プラットフォームは以下を実証しています：
+- Reactとビジネスロジックの分離
+- TypeScriptを使用した型安全な開発
+- Pythonとクラウドサービスによるバックエンド開発
+- モダンなソフトウェアアーキテクチャの原則
+- ユーザーセントリックなレスポンシブデザイン
 
 ---
 
-## 📧 Contact & Connect
+## 📊 プロジェクト統計
 
-I'm always interested in collaborating on innovative projects!
+| プロジェクト | 言語 | リポジトリ | 作成時期 |
+|-----------|------|----------|--------|
+| **d_fit24_react** | TypeScript | [表示](https://github.com/ryo823/d_fit24_react) | 2023年11月 |
+| **d_fit24_cloud** | Python | [表示](https://github.com/ryo823/d_fit24_cloud) | 2024年12月 |
+
+---
+
+## 🚀 ハイライト
+
+- ✅ フルスタック開発経験
+- ✅ クラウドベースアーキテクチャ設計
+- ✅ モダンフロントエンド開発実践
+- ✅ TypeScriptによる型安全なプログラミング
+- ✅ スケーラブルなバックエンドインフラストラクチャ
+- ✅ ユーザーフォーカスの設計哲学
+
+---
+
+## 📧 お問い合わせ
+
+革新的なプロジェクトでのコラボレーションにいつも興味があります！
 
 - **GitHub:** [@ryo823](https://github.com/ryo823)
-- **Portfolio Repositories:**
-  - Frontend: [d_fit24_react](https://github.com/ryo823/d_fit24_react)
-  - Backend: [d_fit24_cloud](https://github.com/ryo823/d_fit24_cloud)
+- **ポートフォリオリポジトリ:**
+  - フロントエンド: [d_fit24_react](https://github.com/ryo823/d_fit24_react)
+  - バックエンド: [d_fit24_cloud](https://github.com/ryo823/d_fit24_cloud)
 
 ---
 
-## 📝 Repository Information
+## 📝 リポジトリ情報
 
-This portfolio repository serves as a showcase of my projects. For detailed information about each project, including code, issues, and pull requests, please visit the individual repository links above.
-
----
-
-**Last Updated:** July 22, 2026
+このポートフォリオリポジトリは、私のプロジェクトを紹介するためのものです。各プロジェクトの詳細情報（コード、課題、プルリクエストなど）については、上記の個別リポジトリリンクをご覧ください。
 
 ---
 
-*Thank you for visiting my portfolio! Feel free to explore the projects and reach out if you have any questions or collaboration opportunities.*
+**更新日:** 2026年7月22日
+
+---
+
+*ポートフォリオへのご訪問ありがとうございます！プロジェクトを自由に探索してください。ご質問やコラボレーション機会がある場合は、お気軽にご連絡ください。*
